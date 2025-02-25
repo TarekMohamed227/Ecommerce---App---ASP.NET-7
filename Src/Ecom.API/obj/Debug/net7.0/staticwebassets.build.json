@@ -1,0 +1,3421 @@
+{
+  "Version": 1,
+  "Hash": "2fWvaDN0WcgyISHbrAuinDMUvligpkR7gmwrKE0FNDQ=",
+  "Source": "Ecom.API",
+  "BasePath": "_content/Ecom.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ecom.API\\wwwroot",
+      "Source": "Ecom.API",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\15301baa-5107-4eb7-a487-67baddfc9bdbimages.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/15301baa-5107-4eb7-a487-67baddfc9bdbimages#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\15301baa-5107-4eb7-a487-67baddfc9bdbimages.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\17d3c0da-4f2d-4668-9999-f6ca551e2270images.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/17d3c0da-4f2d-4668-9999-f6ca551e2270images#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\17d3c0da-4f2d-4668-9999-f6ca551e2270images.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\2705d95d-6f4a-48fb-8eee-b09bf40f2e81images.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/2705d95d-6f4a-48fb-8eee-b09bf40f2e81images#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2705d95d-6f4a-48fb-8eee-b09bf40f2e81images.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\2bda0049-1b37-4483-846b-4fa0c1a17735jpg_44-2.jpg",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/2bda0049-1b37-4483-846b-4fa0c1a17735jpg_44-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2krxzd111",
+      "Integrity": "Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2bda0049-1b37-4483-846b-4fa0c1a17735jpg_44-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\2ef850b6-d858-4096-b503-29b3fdb9e253jpg_44-2.jpg",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/2ef850b6-d858-4096-b503-29b3fdb9e253jpg_44-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2krxzd111",
+      "Integrity": "Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2ef850b6-d858-4096-b503-29b3fdb9e253jpg_44-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\2f05446f-a76a-4730-bf89-1024fc8eb337images.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/2f05446f-a76a-4730-bf89-1024fc8eb337images#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2f05446f-a76a-4730-bf89-1024fc8eb337images.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\4370b0c5-92b0-4375-b152-0e5f3bc63db2images.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/4370b0c5-92b0-4375-b152-0e5f3bc63db2images#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4370b0c5-92b0-4375-b152-0e5f3bc63db2images.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\53cd613d-7908-4af7-9796-15c94f660df4jpg_44-2.jpg",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/53cd613d-7908-4af7-9796-15c94f660df4jpg_44-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2krxzd111",
+      "Integrity": "Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\53cd613d-7908-4af7-9796-15c94f660df4jpg_44-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\5f63e8a0-1bb4-4e08-84d3-0b8fafee39b9jpg_44-2.jpg",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/5f63e8a0-1bb4-4e08-84d3-0b8fafee39b9jpg_44-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2krxzd111",
+      "Integrity": "Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5f63e8a0-1bb4-4e08-84d3-0b8fafee39b9jpg_44-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\6a49cd6e-7569-4c78-acee-25e66efd8b82jpg_44-2.jpg",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/6a49cd6e-7569-4c78-acee-25e66efd8b82jpg_44-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2krxzd111",
+      "Integrity": "Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6a49cd6e-7569-4c78-acee-25e66efd8b82jpg_44-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\6f9d537b-94dd-4f22-a68a-fb6998110105images.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/6f9d537b-94dd-4f22-a68a-fb6998110105images#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6f9d537b-94dd-4f22-a68a-fb6998110105images.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\7ea38de2-be03-402b-9012-10818e1ec986images.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/7ea38de2-be03-402b-9012-10818e1ec986images#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7ea38de2-be03-402b-9012-10818e1ec986images.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\7f8c2a39-47f9-430c-bbda-ca13f506ab31images.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/7f8c2a39-47f9-430c-bbda-ca13f506ab31images#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7f8c2a39-47f9-430c-bbda-ca13f506ab31images.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\86c59cf9-e390-4b05-a4df-2008f747ec19images.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/86c59cf9-e390-4b05-a4df-2008f747ec19images#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\86c59cf9-e390-4b05-a4df-2008f747ec19images.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\9dea5ddc-4d28-438e-8029-511baa686e8ejpg_44-2.jpg",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/9dea5ddc-4d28-438e-8029-511baa686e8ejpg_44-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2krxzd111",
+      "Integrity": "Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9dea5ddc-4d28-438e-8029-511baa686e8ejpg_44-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\ac25ba4b-057b-4a8b-bca3-574169ff24c9images.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/ac25ba4b-057b-4a8b-bca3-574169ff24c9images#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ac25ba4b-057b-4a8b-bca3-574169ff24c9images.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\b13f9ed3-52cb-4392-a8c3-25c3cc7464dbjpg_44-2.jpg",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/b13f9ed3-52cb-4392-a8c3-25c3cc7464dbjpg_44-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2krxzd111",
+      "Integrity": "Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b13f9ed3-52cb-4392-a8c3-25c3cc7464dbjpg_44-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\b3dfafca-c86c-4c45-930e-4b0c0913289eimages.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/b3dfafca-c86c-4c45-930e-4b0c0913289eimages#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b3dfafca-c86c-4c45-930e-4b0c0913289eimages.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\bf38dd71-9e8e-4dd3-8359-9d490f857e6ajpg_44-2.jpg",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/bf38dd71-9e8e-4dd3-8359-9d490f857e6ajpg_44-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2krxzd111",
+      "Integrity": "Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bf38dd71-9e8e-4dd3-8359-9d490f857e6ajpg_44-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\c3ff4ddd-6ce0-49cb-897f-d0227e94822cimages.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/c3ff4ddd-6ce0-49cb-897f-d0227e94822cimages#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c3ff4ddd-6ce0-49cb-897f-d0227e94822cimages.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\d3b8e0c7-7148-492d-9af8-06040d01f32cimages.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/d3b8e0c7-7148-492d-9af8-06040d01f32cimages#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d3b8e0c7-7148-492d-9af8-06040d01f32cimages.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\da6bffae-6611-46c6-9f0e-0e53e11d4194jpg_44-2.jpg",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/da6bffae-6611-46c6-9f0e-0e53e11d4194jpg_44-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2krxzd111",
+      "Integrity": "Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\da6bffae-6611-46c6-9f0e-0e53e11d4194jpg_44-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\dde98eba-0f52-4b87-b7e3-4c16a5b6a34fimages.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/dde98eba-0f52-4b87-b7e3-4c16a5b6a34fimages#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dde98eba-0f52-4b87-b7e3-4c16a5b6a34fimages.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\e50adeab-1396-4060-bf58-786e1aebf6afjpg_44-2.jpg",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/e50adeab-1396-4060-bf58-786e1aebf6afjpg_44-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2krxzd111",
+      "Integrity": "Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e50adeab-1396-4060-bf58-786e1aebf6afjpg_44-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\e999daf0-3fbc-435e-b47e-78807dd0859aimages.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/e999daf0-3fbc-435e-b47e-78807dd0859aimages#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e999daf0-3fbc-435e-b47e-78807dd0859aimages.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f046e2c7-a6d9-4516-bbc7-894970ff10a5jpg_44-2.jpg",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/f046e2c7-a6d9-4516-bbc7-894970ff10a5jpg_44-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2krxzd111",
+      "Integrity": "Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f046e2c7-a6d9-4516-bbc7-894970ff10a5jpg_44-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f35d2913-81e0-4ffd-80fe-3a8fb60b88caimages.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/f35d2913-81e0-4ffd-80fe-3a8fb60b88caimages#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f35d2913-81e0-4ffd-80fe-3a8fb60b88caimages.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f8362c5c-8639-497c-9543-b84d36016c5ejpg_44-2.jpg",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/f8362c5c-8639-497c-9543-b84d36016c5ejpg_44-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2krxzd111",
+      "Integrity": "Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f8362c5c-8639-497c-9543-b84d36016c5ejpg_44-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f867609c-3673-42fa-b283-537fa66d8baejpg_44-2.jpg",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/f867609c-3673-42fa-b283-537fa66d8baejpg_44-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2krxzd111",
+      "Integrity": "Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f867609c-3673-42fa-b283-537fa66d8baejpg_44-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f92c5ca3-2360-43d9-8ccd-c25c576db324images.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/f92c5ca3-2360-43d9-8ccd-c25c576db324images#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f92c5ca3-2360-43d9-8ccd-c25c576db324images.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\fd8907cf-084e-4bd9-a3eb-da45283e9674images.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/fd8907cf-084e-4bd9-a3eb-da45283e9674images#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fd8907cf-084e-4bd9-a3eb-da45283e9674images.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\fe8a772c-6ffd-4287-a226-8de9040f5562images.jfif",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/fe8a772c-6ffd-4287-a226-8de9040f5562images#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0cmjvxep2",
+      "Integrity": "X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fe8a772c-6ffd-4287-a226-8de9040f5562images.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\jpg_44-2.jpg",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "images/jpg_44-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2krxzd111",
+      "Integrity": "Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\jpg_44-2.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/15301baa-5107-4eb7-a487-67baddfc9bdbimages.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\15301baa-5107-4eb7-a487-67baddfc9bdbimages.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 12:20:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/15301baa-5107-4eb7-a487-67baddfc9bdbimages.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\15301baa-5107-4eb7-a487-67baddfc9bdbimages.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 12:20:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/15301baa-5107-4eb7-a487-67baddfc9bdbimages.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/17d3c0da-4f2d-4668-9999-f6ca551e2270images.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\17d3c0da-4f2d-4668-9999-f6ca551e2270images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:53:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/17d3c0da-4f2d-4668-9999-f6ca551e2270images.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\17d3c0da-4f2d-4668-9999-f6ca551e2270images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:53:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/17d3c0da-4f2d-4668-9999-f6ca551e2270images.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/2705d95d-6f4a-48fb-8eee-b09bf40f2e81images.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\2705d95d-6f4a-48fb-8eee-b09bf40f2e81images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 12:02:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/2705d95d-6f4a-48fb-8eee-b09bf40f2e81images.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\2705d95d-6f4a-48fb-8eee-b09bf40f2e81images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 12:02:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2705d95d-6f4a-48fb-8eee-b09bf40f2e81images.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/2bda0049-1b37-4483-846b-4fa0c1a17735jpg_44-2.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\2bda0049-1b37-4483-846b-4fa0c1a17735jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 09:31:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/2bda0049-1b37-4483-846b-4fa0c1a17735jpg_44-2.l2krxzd111.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\2bda0049-1b37-4483-846b-4fa0c1a17735jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 09:31:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2krxzd111"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2bda0049-1b37-4483-846b-4fa0c1a17735jpg_44-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/2ef850b6-d858-4096-b503-29b3fdb9e253jpg_44-2.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\2ef850b6-d858-4096-b503-29b3fdb9e253jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 12:49:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/2ef850b6-d858-4096-b503-29b3fdb9e253jpg_44-2.l2krxzd111.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\2ef850b6-d858-4096-b503-29b3fdb9e253jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 12:49:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2krxzd111"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2ef850b6-d858-4096-b503-29b3fdb9e253jpg_44-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/2f05446f-a76a-4730-bf89-1024fc8eb337images.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\2f05446f-a76a-4730-bf89-1024fc8eb337images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:53:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/2f05446f-a76a-4730-bf89-1024fc8eb337images.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\2f05446f-a76a-4730-bf89-1024fc8eb337images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:53:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2f05446f-a76a-4730-bf89-1024fc8eb337images.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/4370b0c5-92b0-4375-b152-0e5f3bc63db2images.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\4370b0c5-92b0-4375-b152-0e5f3bc63db2images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 11:43:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/4370b0c5-92b0-4375-b152-0e5f3bc63db2images.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\4370b0c5-92b0-4375-b152-0e5f3bc63db2images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 11:43:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4370b0c5-92b0-4375-b152-0e5f3bc63db2images.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/53cd613d-7908-4af7-9796-15c94f660df4jpg_44-2.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\53cd613d-7908-4af7-9796-15c94f660df4jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 13:02:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/53cd613d-7908-4af7-9796-15c94f660df4jpg_44-2.l2krxzd111.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\53cd613d-7908-4af7-9796-15c94f660df4jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 13:02:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2krxzd111"
+        },
+        {
+          "Name": "label",
+          "Value": "images/53cd613d-7908-4af7-9796-15c94f660df4jpg_44-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/5f63e8a0-1bb4-4e08-84d3-0b8fafee39b9jpg_44-2.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\5f63e8a0-1bb4-4e08-84d3-0b8fafee39b9jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 09:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/5f63e8a0-1bb4-4e08-84d3-0b8fafee39b9jpg_44-2.l2krxzd111.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\5f63e8a0-1bb4-4e08-84d3-0b8fafee39b9jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 09:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2krxzd111"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5f63e8a0-1bb4-4e08-84d3-0b8fafee39b9jpg_44-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/6a49cd6e-7569-4c78-acee-25e66efd8b82jpg_44-2.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\6a49cd6e-7569-4c78-acee-25e66efd8b82jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 12:57:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/6a49cd6e-7569-4c78-acee-25e66efd8b82jpg_44-2.l2krxzd111.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\6a49cd6e-7569-4c78-acee-25e66efd8b82jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 12:57:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2krxzd111"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6a49cd6e-7569-4c78-acee-25e66efd8b82jpg_44-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/6f9d537b-94dd-4f22-a68a-fb6998110105images.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\6f9d537b-94dd-4f22-a68a-fb6998110105images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:55:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/6f9d537b-94dd-4f22-a68a-fb6998110105images.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\6f9d537b-94dd-4f22-a68a-fb6998110105images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:55:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6f9d537b-94dd-4f22-a68a-fb6998110105images.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/7ea38de2-be03-402b-9012-10818e1ec986images.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\7ea38de2-be03-402b-9012-10818e1ec986images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:53:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/7ea38de2-be03-402b-9012-10818e1ec986images.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\7ea38de2-be03-402b-9012-10818e1ec986images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:53:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/7ea38de2-be03-402b-9012-10818e1ec986images.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/7f8c2a39-47f9-430c-bbda-ca13f506ab31images.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\7f8c2a39-47f9-430c-bbda-ca13f506ab31images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 11:29:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/7f8c2a39-47f9-430c-bbda-ca13f506ab31images.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\7f8c2a39-47f9-430c-bbda-ca13f506ab31images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 11:29:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/7f8c2a39-47f9-430c-bbda-ca13f506ab31images.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/86c59cf9-e390-4b05-a4df-2008f747ec19images.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\86c59cf9-e390-4b05-a4df-2008f747ec19images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 12:24:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/86c59cf9-e390-4b05-a4df-2008f747ec19images.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\86c59cf9-e390-4b05-a4df-2008f747ec19images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 12:24:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/86c59cf9-e390-4b05-a4df-2008f747ec19images.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/9dea5ddc-4d28-438e-8029-511baa686e8ejpg_44-2.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\9dea5ddc-4d28-438e-8029-511baa686e8ejpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 15:03:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/9dea5ddc-4d28-438e-8029-511baa686e8ejpg_44-2.l2krxzd111.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\9dea5ddc-4d28-438e-8029-511baa686e8ejpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 15:03:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2krxzd111"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9dea5ddc-4d28-438e-8029-511baa686e8ejpg_44-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/ac25ba4b-057b-4a8b-bca3-574169ff24c9images.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\ac25ba4b-057b-4a8b-bca3-574169ff24c9images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 12:35:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/ac25ba4b-057b-4a8b-bca3-574169ff24c9images.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\ac25ba4b-057b-4a8b-bca3-574169ff24c9images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 12:35:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ac25ba4b-057b-4a8b-bca3-574169ff24c9images.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/b13f9ed3-52cb-4392-a8c3-25c3cc7464dbjpg_44-2.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\b13f9ed3-52cb-4392-a8c3-25c3cc7464dbjpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 12:41:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/b13f9ed3-52cb-4392-a8c3-25c3cc7464dbjpg_44-2.l2krxzd111.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\b13f9ed3-52cb-4392-a8c3-25c3cc7464dbjpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 12:41:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2krxzd111"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b13f9ed3-52cb-4392-a8c3-25c3cc7464dbjpg_44-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/b3dfafca-c86c-4c45-930e-4b0c0913289eimages.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\b3dfafca-c86c-4c45-930e-4b0c0913289eimages.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 12:01:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/b3dfafca-c86c-4c45-930e-4b0c0913289eimages.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\b3dfafca-c86c-4c45-930e-4b0c0913289eimages.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 12:01:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b3dfafca-c86c-4c45-930e-4b0c0913289eimages.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/bf38dd71-9e8e-4dd3-8359-9d490f857e6ajpg_44-2.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\bf38dd71-9e8e-4dd3-8359-9d490f857e6ajpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 09:59:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/bf38dd71-9e8e-4dd3-8359-9d490f857e6ajpg_44-2.l2krxzd111.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\bf38dd71-9e8e-4dd3-8359-9d490f857e6ajpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 09:59:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2krxzd111"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bf38dd71-9e8e-4dd3-8359-9d490f857e6ajpg_44-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/c3ff4ddd-6ce0-49cb-897f-d0227e94822cimages.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\c3ff4ddd-6ce0-49cb-897f-d0227e94822cimages.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/c3ff4ddd-6ce0-49cb-897f-d0227e94822cimages.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\c3ff4ddd-6ce0-49cb-897f-d0227e94822cimages.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c3ff4ddd-6ce0-49cb-897f-d0227e94822cimages.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/d3b8e0c7-7148-492d-9af8-06040d01f32cimages.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\d3b8e0c7-7148-492d-9af8-06040d01f32cimages.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 17:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/d3b8e0c7-7148-492d-9af8-06040d01f32cimages.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\d3b8e0c7-7148-492d-9af8-06040d01f32cimages.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 17:22:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/d3b8e0c7-7148-492d-9af8-06040d01f32cimages.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/da6bffae-6611-46c6-9f0e-0e53e11d4194jpg_44-2.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\da6bffae-6611-46c6-9f0e-0e53e11d4194jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 09:45:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/da6bffae-6611-46c6-9f0e-0e53e11d4194jpg_44-2.l2krxzd111.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\da6bffae-6611-46c6-9f0e-0e53e11d4194jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 09:45:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2krxzd111"
+        },
+        {
+          "Name": "label",
+          "Value": "images/da6bffae-6611-46c6-9f0e-0e53e11d4194jpg_44-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/dde98eba-0f52-4b87-b7e3-4c16a5b6a34fimages.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\dde98eba-0f52-4b87-b7e3-4c16a5b6a34fimages.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 12:00:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/dde98eba-0f52-4b87-b7e3-4c16a5b6a34fimages.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\dde98eba-0f52-4b87-b7e3-4c16a5b6a34fimages.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 12:00:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/dde98eba-0f52-4b87-b7e3-4c16a5b6a34fimages.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/e50adeab-1396-4060-bf58-786e1aebf6afjpg_44-2.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\e50adeab-1396-4060-bf58-786e1aebf6afjpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 14:50:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/e50adeab-1396-4060-bf58-786e1aebf6afjpg_44-2.l2krxzd111.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\e50adeab-1396-4060-bf58-786e1aebf6afjpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 14:50:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2krxzd111"
+        },
+        {
+          "Name": "label",
+          "Value": "images/e50adeab-1396-4060-bf58-786e1aebf6afjpg_44-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/e999daf0-3fbc-435e-b47e-78807dd0859aimages.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\e999daf0-3fbc-435e-b47e-78807dd0859aimages.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:42:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/e999daf0-3fbc-435e-b47e-78807dd0859aimages.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\e999daf0-3fbc-435e-b47e-78807dd0859aimages.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:42:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/e999daf0-3fbc-435e-b47e-78807dd0859aimages.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/f046e2c7-a6d9-4516-bbc7-894970ff10a5jpg_44-2.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f046e2c7-a6d9-4516-bbc7-894970ff10a5jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 10:06:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/f046e2c7-a6d9-4516-bbc7-894970ff10a5jpg_44-2.l2krxzd111.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f046e2c7-a6d9-4516-bbc7-894970ff10a5jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 10:06:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2krxzd111"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f046e2c7-a6d9-4516-bbc7-894970ff10a5jpg_44-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/f35d2913-81e0-4ffd-80fe-3a8fb60b88caimages.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f35d2913-81e0-4ffd-80fe-3a8fb60b88caimages.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:53:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/f35d2913-81e0-4ffd-80fe-3a8fb60b88caimages.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f35d2913-81e0-4ffd-80fe-3a8fb60b88caimages.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:53:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f35d2913-81e0-4ffd-80fe-3a8fb60b88caimages.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/f8362c5c-8639-497c-9543-b84d36016c5ejpg_44-2.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f8362c5c-8639-497c-9543-b84d36016c5ejpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 13:05:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/f8362c5c-8639-497c-9543-b84d36016c5ejpg_44-2.l2krxzd111.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f8362c5c-8639-497c-9543-b84d36016c5ejpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 13:05:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2krxzd111"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f8362c5c-8639-497c-9543-b84d36016c5ejpg_44-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/f867609c-3673-42fa-b283-537fa66d8baejpg_44-2.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f867609c-3673-42fa-b283-537fa66d8baejpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 12:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/f867609c-3673-42fa-b283-537fa66d8baejpg_44-2.l2krxzd111.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f867609c-3673-42fa-b283-537fa66d8baejpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 12:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2krxzd111"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f867609c-3673-42fa-b283-537fa66d8baejpg_44-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/f92c5ca3-2360-43d9-8ccd-c25c576db324images.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f92c5ca3-2360-43d9-8ccd-c25c576db324images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:39:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/f92c5ca3-2360-43d9-8ccd-c25c576db324images.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\f92c5ca3-2360-43d9-8ccd-c25c576db324images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:39:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f92c5ca3-2360-43d9-8ccd-c25c576db324images.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/fd8907cf-084e-4bd9-a3eb-da45283e9674images.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\fd8907cf-084e-4bd9-a3eb-da45283e9674images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 12:10:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/fd8907cf-084e-4bd9-a3eb-da45283e9674images.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\fd8907cf-084e-4bd9-a3eb-da45283e9674images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 12:10:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fd8907cf-084e-4bd9-a3eb-da45283e9674images.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/fe8a772c-6ffd-4287-a226-8de9040f5562images.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\fe8a772c-6ffd-4287-a226-8de9040f5562images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 11:41:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/fe8a772c-6ffd-4287-a226-8de9040f5562images.v0cmjvxep2.jfif",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\fe8a772c-6ffd-4287-a226-8de9040f5562images.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 11:41:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0cmjvxep2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fe8a772c-6ffd-4287-a226-8de9040f5562images.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X0U6ab9LVCF0dALFYUcnGkZ39G22GeaLbPYq+kTtDoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/jpg_44-2.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 10:03:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/jpg_44-2.l2krxzd111.jpg",
+      "AssetFile": "C:\\Users\\tarek.ibrahem\\source\\repos\\Ecommerce\\Src\\Ecom.API\\wwwroot\\images\\jpg_44-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "373507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 10:03:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2krxzd111"
+        },
+        {
+          "Name": "label",
+          "Value": "images/jpg_44-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xdus+tl703M0si8VKAdNRblJxPMexxmfSubemaTndGs="
+        }
+      ]
+    }
+  ]
+}

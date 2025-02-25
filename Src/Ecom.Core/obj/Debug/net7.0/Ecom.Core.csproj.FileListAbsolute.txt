@@ -1,0 +1,15 @@
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\bin\Debug\net7.0\Ecom.Core.deps.json
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\bin\Debug\net7.0\Ecom.Core.runtimeconfig.json
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\bin\Debug\net7.0\Ecom.Core.dll
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\bin\Debug\net7.0\Ecom.Core.pdb
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\obj\Debug\net7.0\Ecom.Core.csproj.AssemblyReference.cache
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\obj\Debug\net7.0\Ecom.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\obj\Debug\net7.0\Ecom.Core.AssemblyInfoInputs.cache
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\obj\Debug\net7.0\Ecom.Core.AssemblyInfo.cs
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\obj\Debug\net7.0\Ecom.Core.csproj.CoreCompileInputs.cache
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\obj\Debug\net7.0\Ecom.Core.dll
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\obj\Debug\net7.0\refint\Ecom.Core.dll
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\obj\Debug\net7.0\Ecom.Core.pdb
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\obj\Debug\net7.0\Ecom.Core.genruntimeconfig.cache
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\obj\Debug\net7.0\ref\Ecom.Core.dll
+C:\Users\tarek.ibrahem\source\repos\Ecommerce\Src\Ecom.Core\obj\Debug\net7.0\Ecom.Core.sourcelink.json
